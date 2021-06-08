@@ -103,7 +103,7 @@ function init() {
   };
 
   /* pmd, vmd File */
-  var modelFile = './mmd/Ro-500 v2.0 (J&J Edit).Pmx';
+  var modelFile = './mmd/Ro-500 v2.0 (J&J Edit) NCHL edge.Pmx';
   
   var vmdFiles = ['./mmd/vmd/地球最後の告白を_Latミクv2.31S_b.vmd'];
 
