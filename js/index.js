@@ -103,7 +103,7 @@ function init() {
   };
 
   /* pmd, vmd File */
-  var modelFile = './mmd/Ro-500 v2.0 (J&J Edit).Pmx';
+  var modelFile = './mmd/Ro-500 v2.0 (J&J Edit) NCHL nude.Pmx';
   
   var vmdFiles = ['./mmd/vmd/motion.vmd'];
 
