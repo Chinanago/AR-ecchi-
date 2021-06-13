@@ -105,7 +105,7 @@ function init() {
   /* pmd, vmd File */
   var modelFile = './mmd/Ro-chan/Ro-500 v2.0 (J&J Edit).Pmx';
   
-  var vmdFiles = ['./mmd/vmd/kusuguri10.vmd'];
+  var vmdFiles = ['./mmd/vmd/motion.vmd'];
 
   /* Music File */
   var audioFile = './mmd/music/music.mp3';
