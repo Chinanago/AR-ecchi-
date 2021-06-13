@@ -103,7 +103,7 @@ function init() {
   };
 
   /* pmd, vmd File */
-  var modelFile = './mmd/Arisu/ひかりの創り手_橘ありすVer.1.0.pmx';
+  var modelFile = './mmd/Ro-chan/Ro-500 v2.0 (J&J Edit).Pmx';
   
   var vmdFiles = ['./mmd/vmd/kusuguri10.vmd'];
 
