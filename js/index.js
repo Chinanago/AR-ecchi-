@@ -105,7 +105,7 @@ function init() {
   /* pmd, vmd File */
   var modelFile = './mmd/Arisu/ひかりの創り手_橘ありすVer.1.0.pmx';
   
-  var vmdFiles = ['./mmd/vmd/kusuguri10.vmd'];
+  var vmdFiles = ['./mmd/vmd/motion.vmd'];
 
   /* Music File */
   var audioFile = './mmd/music/music.mp3';
