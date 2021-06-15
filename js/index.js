@@ -123,9 +123,9 @@ function init() {
     // 3dobject
     var model = new THREE.Object3D();
     // Scaleの変換
-    model.scale.x = 0.5;
-    model.scale.y = 0.5;
-    model.scale.z = 0.5;
+    model.scale.x = 0.2;
+    model.scale.y = 0.2;
+    model.scale.z = 0.2;
     model.add(mesh);
 
     helper.add( mesh, {
